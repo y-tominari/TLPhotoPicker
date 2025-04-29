@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import TargetConditionals
 import Photos
 import PhotosUI
 import MobileCoreServices
